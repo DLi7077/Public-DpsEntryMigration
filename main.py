@@ -9,13 +9,13 @@ sys.stdout.reconfigure(encoding="utf-8")
 abyss_entries="Past dpsEntries\Abyss\DPSAbyss-DPS-Abyss-2022-02-21.csv"
 # get oauth token
 tokenOptions={
-    "client_id": "EhPptHdCDqJKEYADjQbh0YDoNHRhNllK",
-    "client_secret": "ryXJFf__RBlwoHUE97JDORC1xtx5LVdApeZBx1GUHgjW9-A9emRUYc8IRMmf3_ub",
-    "audience":"https://tgh-server-v2.herokuapp.com/",
+    "client_id": "______________________",
+    "client_secret": "__________________",
+    "audience":"https://________________",
     "grant_type":"client_credentials"
 }
 # fetch token
-tokenRequest = requests.post("https://dev-aluxp6zj.us.auth0.com/oauth/token",
+tokenRequest = requests.post("https://____/oauth/token",
                             headers = {"contentType": "application/json"}, 
                             data = tokenOptions);
 # print status

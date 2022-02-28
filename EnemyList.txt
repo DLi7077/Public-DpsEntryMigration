@@ -1,390 +1,136 @@
-
-Search for characters, guides, items...
- 
- 
-12 42 07
-Fan Game Database
-Home
-News
-Events
-Genshin Impact
-Characters
-Mechanics
-Infodesk
-Database
-Advanced Search
-Artifact Sets
-Books
-Consumables
-Domains
-Game Version
-Guide
-Housing
-Items
-Quests
-Monsters
-NPCs
-Weapons
-Gallery
-FAQ
-Links
-Home
- Database
- Monsters
-MONSTERS
-ENEMIES
-icon-image
-ABYSS HERALD: WICKED TORRENTS
-icon-image
-ABYSS LECTOR: VIOLET LIGHTNING
-
-ADORNED UNAGI
-icon-image
-ANDRIUS, DOMINATOR OF WOLVES, LUPUS BOREAS
-icon-image
-ANEMO HYPOSTASIS
-icon-image
-ANEMO SAMACHURL
-icon-image
-ANEMO SLIME
-icon-image
-ANEMO SPECTER
-icon-image
-AZHDAHA
-icon-image
-BLAZING AXE MITACHURL
-icon-image
-CORAL DEFENDERS
-icon-image
-CRACKLING AXE MITACHURL
-icon-image
-CROSSBOW TREASURE HOARDER
-icon-image
-CRYO ABYSS MAGE
-icon-image
-CRYO CICIN
-icon-image
-CRYO HILICHURL GRENADIER
-icon-image
-CRYO HILICHURL SHOOTER
-icon-image
-CRYO HYPOSTASIS
-icon-image
-CRYO REGISVINE
-icon-image
-CRYO SAMACHURL
-icon-image
-CRYO SLIME
-icon-image
-CRYO WHOPPERFLOWER
-icon-image
-DENDRO ABYSS MAGE
-icon-image
-DENDRO SAMACHURL
-icon-image
-DENDRO SLIME
-icon-image
-DVALIN
-icon-image
-ELECTRO ABYSS MAGE
-icon-image
-ELECTRO CICIN
-icon-image
-ELECTRO HILICHURL SHOOTER
-icon-image
-ELECTRO HYPOSTASIS
-icon-image
-ELECTRO SAMACHURL
-icon-image
-ELECTRO SLIME
-icon-image
-ELECTRO WHOPPERFLOWER
-icon-image
-EYE OF THE STORM
-icon-image
-FATUI CRYO CICIN MAGE
-icon-image
-FATUI ELECTRO CICIN MAGE
-icon-image
-FATUI MIRROR MAIDEN
-icon-image
-FATUI PYRO AGENT
-icon-image
-FATUI SKIRMISHER - ANEMOBOXER VANGUARD
-icon-image
-FATUI SKIRMISHER - CRYOGUNNER LEGIONNAIRE
-icon-image
-FATUI SKIRMISHER - ELECTROHAMMER VANGUARD
-icon-image
-FATUI SKIRMISHER - GEOCHANTER BRACER
-icon-image
-FATUI SKIRMISHER - HYDROGUNNER LEGIONNAIRE
-icon-image
-FATUI SKIRMISHER - PYROSLINGER BRACER
-icon-image
-FROSTARM LAWACHURL
-icon-image
-GEO HYPOSTASIS
-icon-image
-GEO SAMACHURL
-icon-image
-GEO SLIME
-icon-image
-GEO SPECTER
-icon-image
-GEOVISHAP
-icon-image
-GEOVISHAP HATCHLING
-icon-image
-HATCHET TREASURE HOARDER
-icon-image
-HILICHURL
-icon-image
-HILICHURL BESERKER
-icon-image
-HILICHURL FIGHTER
-icon-image
-HILICHURL GRENADIER
-icon-image
-HILICHURL SHOOTER
-icon-image
-HYDRO ABYSS MAGE
-icon-image
-HYDRO CICIN
-icon-image
-HYDRO HYPOSTASIS
-icon-image
-HYDRO SAMACHURL
-icon-image
-HYDRO SLIME
-icon-image
-HYDRO SPECTER
-icon-image
-ICE SHIELD HILICHURL GUARD
-icon-image
-ICE SHIELDWALL MITACHURL
-icon-image
-KAIRAGI: DANCING THUNDER
-icon-image
-KAIRAGI: FIERY MIGHT
-icon-image
-LA SIGNORA
-icon-image
-LARGE ANEMO SLIME
-icon-image
-LARGE CRYO SLIME
-icon-image
-LARGE DENDRO SLIME
-icon-image
-LARGE ELECTRO SLIME
-icon-image
-LARGE GEO SLIME
-icon-image
-LARGE HYDRO SLIME
-icon-image
-LARGE PYRO SLIME
-
-MAGATSU MITAKE NARUKAMI NO MIKOTO
-
-MAGUU KENKI
-icon-image
-MUTANT ELECTRO SLIME
-icon-image
-NOBUSHI: HITSUKEBAN
-icon-image
-NOBUSHI: JINTOUBAN
-icon-image
-NOBUSHI: KIKOUBAN
-icon-image
-OCEANID
-icon-image
-PERPETUAL MECHANICAL ARRAY
-icon-image
-PRIMO GEOVISHAP
-icon-image
-PYRO ABYSS MAGE
-icon-image
-PYRO HILICHURL SHOOTER
-icon-image
-PYRO HYPOSTATIS
-icon-image
-PYRO REGISVINE
-icon-image
-PYRO SAMACHURL
-icon-image
-PYRO SLIME
-icon-image
-PYRO WHOPPERFLOWER
-
-RED-FINNED UNAGI
-icon-image
-ROCK SHIELD HILICHURL GUARD
-icon-image
-ROCK SHIELDWALL MITACHURL
-icon-image
-ROCKFOND RIFTHOUND
-icon-image
-ROCKFOND RIFTHOUND WHELP
-icon-image
-RUIN CRUISER
-icon-image
-RUIN DEFENDER
-icon-image
-RUIN DESTROYER
-icon-image
-RUIN GRADER
-icon-image
-RUIN GUARD
-icon-image
-RUIN HUNTER
-icon-image
-RUIN SCOUT
-icon-image
-SHOVEL TREASURE HOARDER
-icon-image
-STONEHIDE LAWACHURL
-icon-image
-STORMTERROR
-icon-image
-TARTAGLIA (CHILDE)
-icon-image
-THUNDER MANIFESTATION
-icon-image
-THUNDERCRAVEN RIFTHOUND
-icon-image
-THUNDERCRAVEN RIFTHOUND WHELP
-icon-image
-THUNDERHELM LAWACHURL
-icon-image
-TREASURE HOARDERS - CRUSHER
-icon-image
-TREASURE HOARDERS - MARKSMAN
-icon-image
-TREASURE HOARDERS - PUGILIST
-icon-image
-TREASURE HOARDERS - SCOUT
-icon-image
-TREASURE HOARDERS - SEAMAN
-icon-image
-TREASURE HOARDERS: CRYO POTIONEER
-icon-image
-TREASURE HOARDERS: ELECTRO POTIONEER
-icon-image
-TREASURE HOARDERS: GRAVEDIGGER
-icon-image
-TREASURE HOARDERS: HANDYMAN
-icon-image
-TREASURE HOARDERS: HYDRO POTIONEER
-icon-image
-TREASURE HOARDERS: PYRO POTIONEER
-icon-image
-UNUSUAL HILICHURL
-icon-image
-WOODEN SHIELD HILICHURL GUARD
-icon-image
-WOODEN SHIELD MITACHURL
-NEUTRAL
-icon-image
-ABIDING ANGELFISH
-icon-image
-AIZEN MEDAKA
-icon-image
-AKAI MAOU
-icon-image
-AZURE CRANE
-icon-image
-BAKE-DANUKI
-icon-image
-BETTA
-icon-image
-BITTER PUFFERFISH
-icon-image
-BLACK-BACK HOUND
-icon-image
-BROWN SHIRAKODAI
-
-CRIMSON FINCH
-
-CRIMSON FOX
-icon-image
-CROW
-
-CRYO CRYSTALFLY
-icon-image
-CRYSTALFISH
-icon-image
-DAWNCATCHER
-icon-image
-ELECTRO CRYSTALFLY
-
-EMERALD FINCH
-
-FOREST BOAR
-
-FOREST-PATROL HOUND
-icon-image
-GENERAL CRAB
-icon-image
-GLAZE MEDAKA
-icon-image
-GOLDEN KOI
-
-GRAYWING PIGEON
-
-GREAT SNOWBOAR KING
-
-JADE-EYED CAT
-icon-image
-KITSUNE
-icon-image
-LUNGED STICKLEBACK
-icon-image
-MEDAKA
-icon-image
-MOONFIN
-
-NORTHLAND HOUND
-icon-image
-PALE RED CRAB
-
-PELICAN
-icon-image
-PITH LIZARD
-icon-image
-PUFFERFISH
-icon-image
-PURPLE SHIRAKODAI
-icon-image
-RAIMEI ANGELFISH
-icon-image
-RUSTY KOI
-
-SAPPHIRE
-
-SCARLETBEAK DUCK
-
-SEAGULL
-
-SHIBA
-
-SNOW FINCH
-
-SNOW FOX
-
-SNOWBOAR
-icon-image
-SNOWSTRIDER
-
-SQUIRREL
-icon-image
-SWEET-FLOWER MEDAKA
-icon-image
-TEA-COLORED SHIRAKODAI
-
-UMBERTAIL FALCON
-icon-image
-VENOMSPINE FISH
-icon-image
-VIOLET IBIS
-About Team Contact Disclaimer Privacy Policy Report Page
-© 2019 - 2022  Genshin Impact Game DB
+Abyss Herald: Wicked Torrents
+Abyss Lector: Violet Lightning
+Adorned Unagi
+Andrius Dominator Of Wolves Lupus Boreas
+Anemo Hypostasis
+Anemo Samachurl
+Anemo Slime
+Anemo Specter
+Azhdaha
+Blazing Axe Mitachurl
+Coral Defenders
+Crackling Axe Mitachurl
+Crossbow Treasure Hoarder
+Cryo Abyss Mage
+Cryo Cicin
+Cryo Crystalfly
+Cryo Hilichurl Grenadier
+Cryo Hilichurl Shooter
+Cryo Hypostasis
+Cryo Regisvine
+Cryo Samachurl
+Cryo Slime
+Cryo Whopperflower
+Dendro Abyss Mage
+Dendro Samachurl
+Dendro Slime
+Dvalin
+Electro Abyss Mage
+Electro Cicin
+Electro Crystalfly
+Electro Hilichurl Shooter
+Electro Hypostasis
+Electro Samachurl
+Electro Slime
+Electro Whopperflower
+Eye Of The Storm
+Fatui Cryo Cicin Mage
+Fatui Electro Cicin Mage
+Fatui Mirror Maiden
+Fatui Pyro Agent
+Fatui Skirmisher - Anemoboxer Vanguard
+Fatui Skirmisher - Cryogunner Legionnaire
+Fatui Skirmisher - Electrohammer Vanguard
+Fatui Skirmisher - Geochanter Bracer
+Fatui Skirmisher - Hydrogunner Legionnaire
+Fatui Skirmisher - Pyroslinger Bracer
+Forest Boar
+Forest-Patrol Hound
+Frostarm Lawachurl
+General Crab
+Geo Hypostasis
+Geo Samachurl
+Geo Slime
+Geo Specter
+Geovishap
+Geovishap Hatchling
+Hatchet Treasure Hoarder
+Hilichurl
+Hilichurl Beserker
+Hilichurl Fighter
+Hilichurl Grenadier
+Hilichurl Shooter
+Hydro Abyss Mage
+Hydro Cicin
+Hydro Hypostasis
+Hydro Samachurl
+Hydro Slime
+Hydro Specter
+Ice Shield Hilichurl Guard
+Ice Shieldwall Mitachurl
+Kairagi: Dancing Thunder
+Kairagi: Fiery Might
+La Signora
+Large Anemo Slime
+Large Cryo Slime
+Large Dendro Slime
+Large Electro Slime
+Large Geo Slime
+Large Hydro Slime
+Large Pyro Slime
+Magatsu Mitake Narukami No Mikoto
+Maguu Kenki
+Mutant Electro Slime
+Nobushi: Hitsukeban
+Nobushi: Jintouban
+Nobushi: Kikouban
+Oceanid
+Perpetual Mechanical Array
+Primo Geovishap
+Pyro Abyss Mage
+Pyro Hilichurl Shooter
+Pyro Hypostatis
+Pyro Regisvine
+Pyro Samachurl
+Pyro Slime
+Pyro Whopperflower
+Raiden Shogun
+Red-Finned Unagi
+Rock Shield Hilichurl Guard
+Rock Shieldwall Mitachurl
+Rockfond Rifthound
+Rockfond Rifthound Whelp
+Ruin Cruiser
+Ruin Defender
+Ruin Destroyer
+Ruin Grader
+Ruin Guard
+Ruin Hunter
+Ruin Scout
+Shovel Treasure Hoarder
+Snowboar
+Snowstrider
+Squirrel
+Stonehide Lawachurl
+Stormterror
+Sweet-Flower Medaka
+Tartaglia (Childe)
+Tea-Colored Shirakodai
+Thunder Manifestation
+Thundercraven Rifthound
+Thundercraven Rifthound Whelp
+Thunderhelm Lawachurl
+Treasure Hoarders - Crusher
+Treasure Hoarders - Marksman
+Treasure Hoarders - Pugilist
+Treasure Hoarders - Scout
+Treasure Hoarders - Seaman
+Treasure Hoarders: Cryo Potioneer
+Treasure Hoarders: Electro Potioneer
+Treasure Hoarders: Gravedigger
+Treasure Hoarders: Handyman
+Treasure Hoarders: Hydro Potioneer
+Treasure Hoarders: Pyro Potioneer
+Unusual Hilichurl
+Wooden Shield Hilichurl Guard
+Wooden Shield Mitachurl
