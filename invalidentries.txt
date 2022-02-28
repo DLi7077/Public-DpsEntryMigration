@@ -1,0 +1,14 @@
+game_version                                                   2.1
+damage_dealt                                                241562
+alias            <a href="https://www.youtube.com/watch?v=EX33d...
+region                                                        Asia
+team                                             Klee Bennett Mona
+notes                         Elemental Skill\nFood Buffs\nStunned
+discord_tag                                                    N/A
+dps_category                                            World Boss
+abyss_version                                                     
+video_link                                                        
+attack_type                                                       
+stunned                                                           
+food_used                                                         
+approved                                                      True
