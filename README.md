@@ -6,17 +6,25 @@ functions to migrate past dps entries into mongoDB
   <summary> DataMigration.py: </summary>
 
   ## getAbyssDataframe, getPrimoGeoDataframe, getOverworldDataFrame
-  * takes in csv file to dataFrame as parameter
-  * returns cleaned dataframe with columns corresponding to the dps Schema in mongoDB
+  * Takes in csv file to dataFrame as parameter
+  * Returns cleaned dataframe with columns corresponding to the dps Schema in mongoDB
 
   ## split_dataframe
-  * splits data_frame into chunks of 250 rows, to speedup migration
-  * returns list of dataframes of size 250 
+  * Splits data_frame into chunks of 250 rows, to speedup migration
+  * Returns list of dataframes of size 250 
 
   ## submit_request
-  * sends dataframe info to the data base using post request
+  * Sends dataframe info to the data base using post request
 
   ## migrateAbyssData, migratePrimoGeovishapData, migrateOverworldData
-  * migrates data of different categories using split_dataframe and submit_request
+  * Migrates data of different categories using split_dataframe and submit_request
+  
+  <summary> ProcessFunction.py: </summary>
+   
+  ## processFunctions:
+  * Validates all entry properties of a submission to ensure no faulty submissions
+  
+  <summary> geTitle.py: </summary>
+  * Scrapes youtube title from videolink to figure out who the main damage dealing character is in the submission
 
 </details>
