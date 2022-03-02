@@ -4,13 +4,11 @@ functions to migrate past dps entries into mongoDB
 
 <details>
 <summary>DataMigration.py:</summary>
-====
 - getAbyssDataframe
 - getPrimoGeoDataframe
 - getOverworldDataFrame
   - takes in csv file to dataFrame as parameter
   - returns cleaned dataframe with columns corresponding to the dps Schema in mongoDB
-
 - split_dataframe
   - splits data_frame into chunks of 250 rows, to speedup migration
   - returns list of dataframes of size 250 
