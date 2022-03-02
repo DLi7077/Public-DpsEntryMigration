@@ -2,9 +2,8 @@
 
 functions to migrate past dps entries into mongoDB
 
-
-.DataMigration.py:
-[%collapsible]
+<details>
+<summary>DataMigration.py:</summary>
 ====
 - getAbyssDataframe
 - getPrimoGeoDataframe
@@ -22,3 +21,4 @@ functions to migrate past dps entries into mongoDB
 - migrateOverworldData
   - migrates data of different categories using split_dataframe and submit_request
 ====
+</details>
