@@ -27,5 +27,5 @@ functions to migrate past dps entries into mongoDB
 </details>
 <details>
   <summary> getTitle.py: </summary>
-    * Scrapes youtube title from videolink to figure out who the main damage dealing character is in the submission
+  * Scrapes youtube title from videolink to figure out who the main damage dealing character is in the submission
 </details>
