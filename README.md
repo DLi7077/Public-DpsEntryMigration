@@ -1,6 +1,10 @@
 ﻿DPS Entries Migrations
 
-functions to migrate past dps entries into mongoDB
+functions to migrate past DPS entries into mongoDB
+entries are from community Discord Members playing Genshin Impact
+* DPS: Damage per second
+
+## Players send a clip displaying their character's strength by doing as much damage as possible in one frame
 
 <details>
   <summary> DataMigration.py: </summary>
